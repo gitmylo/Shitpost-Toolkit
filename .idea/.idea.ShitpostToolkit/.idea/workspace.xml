@@ -22,8 +22,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a978c32-7103-4b2e-ab77-517783ff65ce" name="Default Changelist" comment="change Readme.md to Readme.stpt (shitpost toolkit plain text) and change reading of it">
+    <list default="true" id="2a978c32-7103-4b2e-ab77-517783ff65ce" name="Default Changelist" comment="hope fix">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +42,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ShitpostToolkit/Readme.md" />
+        <option value="$PROJECT_DIR$/ShitpostToolkit/Readme.stpt" />
         <option value="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" />
       </list>
     </option>
@@ -84,7 +90,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609840677031</updated>
       <workItem from="1609840679859" duration="839000" />
-      <workItem from="1609845980089" duration="3519000" />
+      <workItem from="1609845980089" duration="4144000" />
     </task>
     <task id="LOCAL-00001" summary="end tax fraud">
       <created>1609846216465</created>
@@ -114,7 +120,28 @@
       <option name="project" value="LOCAL" />
       <updated>1609849471653</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="brain">
+      <created>1609849621631</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609849621631</updated>
+    </task>
+    <task id="LOCAL-00006" summary="hope fix">
+      <created>1609849657426</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609849657426</updated>
+    </task>
+    <task id="LOCAL-00007" summary="hope fix">
+      <created>1609849695961</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609849695961</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +165,9 @@
     <MESSAGE value="end tax fraud" />
     <MESSAGE value="Readme.md and base form page" />
     <MESSAGE value="change Readme.md to Readme.stpt (shitpost toolkit plain text) and change reading of it" />
-    <option name="LAST_COMMIT_MESSAGE" value="change Readme.md to Readme.stpt (shitpost toolkit plain text) and change reading of it" />
+    <MESSAGE value="brain" />
+    <MESSAGE value="hope fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="hope fix" />
   </component>
   <component name="WindowStateProjectService">
     <state x="787" y="396" key="Github.ShareDialog" timestamp="1609840911717">
@@ -149,22 +178,22 @@
       <screen x="0" y="0" width="1842" height="996" />
     </state>
     <state x="724" y="205" key="Github.UntrackedFilesDialog/0.0.1842.996@0.0.1842.996" timestamp="1609840917204" />
-    <state width="899" height="271" key="GridCell.Tab.0.bottom" timestamp="1609849065096">
+    <state width="899" height="271" key="GridCell.Tab.0.bottom" timestamp="1609849824883">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state width="899" height="271" key="GridCell.Tab.0.bottom/0.0.1842.996@0.0.1842.996" timestamp="1609849065096" />
-    <state width="899" height="271" key="GridCell.Tab.0.center" timestamp="1609849065096">
+    <state width="899" height="271" key="GridCell.Tab.0.bottom/0.0.1842.996@0.0.1842.996" timestamp="1609849824883" />
+    <state width="899" height="271" key="GridCell.Tab.0.center" timestamp="1609849824883">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state width="899" height="271" key="GridCell.Tab.0.center/0.0.1842.996@0.0.1842.996" timestamp="1609849065096" />
-    <state width="899" height="271" key="GridCell.Tab.0.left" timestamp="1609849065096">
+    <state width="899" height="271" key="GridCell.Tab.0.center/0.0.1842.996@0.0.1842.996" timestamp="1609849824883" />
+    <state width="899" height="271" key="GridCell.Tab.0.left" timestamp="1609849824883">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state width="899" height="271" key="GridCell.Tab.0.left/0.0.1842.996@0.0.1842.996" timestamp="1609849065096" />
-    <state width="899" height="271" key="GridCell.Tab.0.right" timestamp="1609849065096">
+    <state width="899" height="271" key="GridCell.Tab.0.left/0.0.1842.996@0.0.1842.996" timestamp="1609849824883" />
+    <state width="899" height="271" key="GridCell.Tab.0.right" timestamp="1609849824883">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state width="899" height="271" key="GridCell.Tab.0.right/0.0.1842.996@0.0.1842.996" timestamp="1609849065096" />
+    <state width="899" height="271" key="GridCell.Tab.0.right/0.0.1842.996@0.0.1842.996" timestamp="1609849824883" />
     <state x="796" y="447" key="Items removing confirmation dialog" timestamp="1609846588026">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
@@ -181,10 +210,10 @@
       <screen x="0" y="0" width="1842" height="996" />
     </state>
     <state x="649" y="135" width="740" height="647" key="ToolboxManager/0.0.1842.996@0.0.1842.996" timestamp="1609847730468" />
-    <state x="513" y="231" key="Vcs.Push.Dialog.v2" timestamp="1609849476014">
+    <state x="513" y="231" key="Vcs.Push.Dialog.v2" timestamp="1609849699895">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state x="513" y="231" key="Vcs.Push.Dialog.v2/0.0.1842.996@0.0.1842.996" timestamp="1609849476014" />
+    <state x="513" y="231" key="Vcs.Push.Dialog.v2/0.0.1842.996@0.0.1842.996" timestamp="1609849699895" />
     <state x="815" y="369" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609846070161">
       <screen x="0" y="0" width="1842" height="996" />
     </state>

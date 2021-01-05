@@ -6,6 +6,7 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Net;
+using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -27,13 +28,14 @@ namespace ShitpostToolkit
             {
                 using (WebClient client = new WebClient())
                 {
+                    Random random = new Random(); // avoid caching hacky approach
                     Stream response = client.OpenRead(
-                        "https://raw.githubusercontent.com/gitmylo/Shitpost-Toolkit/master/ShitpostToolkit/Readme.stpt");
+                        "https://raw.githubusercontent.com/gitmylo/Shitpost-Toolkit/master/ShitpostToolkit/Readme.stpt" + "?random=" + random.Next().ToString());
                     StreamReader responseReader = new StreamReader(response);
                     changelogTxt = "your current running version: " + version + Environment.NewLine;
                     while (!responseReader.EndOfStream)
                     {
-                        changelogTxt += responseReader.ReadLine();
+                        changelogTxt += responseReader.ReadLine() + Environment.NewLine;
                     }
                 }
             }
