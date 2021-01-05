@@ -21,7 +21,7 @@
           <e p="Settings.Designer.cs" t="Include" />
           <e p="Settings.settings" t="Include" />
         </e>
-        <e p="Readme.md" t="Include" />
+        <e p="Readme.stpt" t="Include" />
         <e p="ShitpostToolkit.csproj" t="IncludeRecursive" />
       </e>
       <e p="ShitpostToolkit.sln" t="IncludeFlat" />

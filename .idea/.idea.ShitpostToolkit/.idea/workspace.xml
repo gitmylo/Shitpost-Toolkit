@@ -22,7 +22,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a978c32-7103-4b2e-ab77-517783ff65ce" name="Default Changelist" comment="Readme.md and base form page" />
+    <list default="true" id="2a978c32-7103-4b2e-ab77-517783ff65ce" name="Default Changelist" comment="Readme.md and base form page">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +43,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" />
         <option value="$PROJECT_DIR$/ShitpostToolkit/Readme.md" />
       </list>
     </option>
@@ -81,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609840677031</updated>
       <workItem from="1609840679859" duration="839000" />
-      <workItem from="1609845980089" duration="1361000" />
+      <workItem from="1609845980089" duration="3212000" />
     </task>
     <task id="LOCAL-00001" summary="end tax fraud">
       <created>1609846216465</created>
@@ -97,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609847341116</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Readme.md and base form page">
+      <created>1609847402314</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609847402314</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +148,22 @@
       <screen x="0" y="0" width="1842" height="996" />
     </state>
     <state x="724" y="205" key="Github.UntrackedFilesDialog/0.0.1842.996@0.0.1842.996" timestamp="1609840917204" />
+    <state width="899" height="271" key="GridCell.Tab.0.bottom" timestamp="1609849065096">
+      <screen x="0" y="0" width="1842" height="996" />
+    </state>
+    <state width="899" height="271" key="GridCell.Tab.0.bottom/0.0.1842.996@0.0.1842.996" timestamp="1609849065096" />
+    <state width="899" height="271" key="GridCell.Tab.0.center" timestamp="1609849065096">
+      <screen x="0" y="0" width="1842" height="996" />
+    </state>
+    <state width="899" height="271" key="GridCell.Tab.0.center/0.0.1842.996@0.0.1842.996" timestamp="1609849065096" />
+    <state width="899" height="271" key="GridCell.Tab.0.left" timestamp="1609849065096">
+      <screen x="0" y="0" width="1842" height="996" />
+    </state>
+    <state width="899" height="271" key="GridCell.Tab.0.left/0.0.1842.996@0.0.1842.996" timestamp="1609849065096" />
+    <state width="899" height="271" key="GridCell.Tab.0.right" timestamp="1609849065096">
+      <screen x="0" y="0" width="1842" height="996" />
+    </state>
+    <state width="899" height="271" key="GridCell.Tab.0.right/0.0.1842.996@0.0.1842.996" timestamp="1609849065096" />
     <state x="796" y="447" key="Items removing confirmation dialog" timestamp="1609846588026">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
@@ -143,14 +176,14 @@
       <screen x="0" y="0" width="1842" height="996" />
     </state>
     <state x="422" y="143" key="SettingsEditor/0.0.1842.996@0.0.1842.996" timestamp="1609847312078" />
-    <state x="649" y="135" width="740" height="647" key="ToolboxManager" timestamp="1609846695067">
+    <state x="649" y="135" width="740" height="647" key="ToolboxManager" timestamp="1609847730468">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state x="649" y="135" width="740" height="647" key="ToolboxManager/0.0.1842.996@0.0.1842.996" timestamp="1609846695067" />
-    <state x="513" y="231" key="Vcs.Push.Dialog.v2" timestamp="1609847350139">
+    <state x="649" y="135" width="740" height="647" key="ToolboxManager/0.0.1842.996@0.0.1842.996" timestamp="1609847730468" />
+    <state x="513" y="231" key="Vcs.Push.Dialog.v2" timestamp="1609847407386">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state x="513" y="231" key="Vcs.Push.Dialog.v2/0.0.1842.996@0.0.1842.996" timestamp="1609847350139" />
+    <state x="513" y="231" key="Vcs.Push.Dialog.v2/0.0.1842.996@0.0.1842.996" timestamp="1609847407386" />
     <state x="815" y="369" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609846070161">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
