@@ -6,3 +6,7 @@ C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\obj\Debug\ShitpostT
 C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\obj\Debug\ShitpostToolkit.csproj.GenerateResource.Cache
 C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\obj\Debug\ShitpostToolkit.exe
 C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\obj\Debug\ShitpostToolkit.pdb
+C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\bin\Debug\MetroFramework.Design.dll
+C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\bin\Debug\MetroFramework.dll
+C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\obj\Debug\ShitpostToolkit.Form1.resources
