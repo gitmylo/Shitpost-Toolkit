@@ -28,7 +28,7 @@ namespace ShitpostToolkit
                 using (WebClient client = new WebClient())
                 {
                     Stream response = client.OpenRead(
-                        "https://raw.githubusercontent.com/gitmylo/Shitpost-Toolkit/master/ShitpostToolkit/Readme.md");
+                        "https://raw.githubusercontent.com/gitmylo/Shitpost-Toolkit/master/ShitpostToolkit/Readme.stpt");
                     StreamReader responseReader = new StreamReader(response);
                     changelogTxt = "your current running version: " + version + Environment.NewLine;
                     while (!responseReader.EndOfStream)

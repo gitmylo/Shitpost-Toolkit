@@ -22,15 +22,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a978c32-7103-4b2e-ab77-517783ff65ce" name="Default Changelist" comment="Readme.md and base form page">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Form1.Designer.cs" afterDir="false" />
+    <list default="true" id="2a978c32-7103-4b2e-ab77-517783ff65ce" name="Default Changelist" comment="change Readme.md to Readme.stpt (shitpost toolkit plain text) and change reading of it">
       <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +36,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" />
         <option value="$PROJECT_DIR$/ShitpostToolkit/Readme.md" />
+        <option value="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" />
       </list>
     </option>
   </component>
@@ -91,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609840677031</updated>
       <workItem from="1609840679859" duration="839000" />
-      <workItem from="1609845980089" duration="3212000" />
+      <workItem from="1609845980089" duration="3519000" />
     </task>
     <task id="LOCAL-00001" summary="end tax fraud">
       <created>1609846216465</created>
@@ -114,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609847402314</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="change Readme.md to Readme.stpt (shitpost toolkit plain text) and change reading of it">
+      <created>1609849471653</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609849471653</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +137,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="end tax fraud" />
     <MESSAGE value="Readme.md and base form page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Readme.md and base form page" />
+    <MESSAGE value="change Readme.md to Readme.stpt (shitpost toolkit plain text) and change reading of it" />
+    <option name="LAST_COMMIT_MESSAGE" value="change Readme.md to Readme.stpt (shitpost toolkit plain text) and change reading of it" />
   </component>
   <component name="WindowStateProjectService">
     <state x="787" y="396" key="Github.ShareDialog" timestamp="1609840911717">
@@ -180,10 +181,10 @@
       <screen x="0" y="0" width="1842" height="996" />
     </state>
     <state x="649" y="135" width="740" height="647" key="ToolboxManager/0.0.1842.996@0.0.1842.996" timestamp="1609847730468" />
-    <state x="513" y="231" key="Vcs.Push.Dialog.v2" timestamp="1609847407386">
+    <state x="513" y="231" key="Vcs.Push.Dialog.v2" timestamp="1609849476014">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state x="513" y="231" key="Vcs.Push.Dialog.v2/0.0.1842.996@0.0.1842.996" timestamp="1609847407386" />
+    <state x="513" y="231" key="Vcs.Push.Dialog.v2/0.0.1842.996@0.0.1842.996" timestamp="1609849476014" />
     <state x="815" y="369" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609846070161">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
