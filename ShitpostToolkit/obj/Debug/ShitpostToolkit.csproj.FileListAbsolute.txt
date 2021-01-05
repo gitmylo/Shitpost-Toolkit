@@ -1,0 +1,8 @@
+C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\bin\Debug\ShitpostToolkit.exe.config
+C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\bin\Debug\ShitpostToolkit.exe
+C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\bin\Debug\ShitpostToolkit.pdb
+C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\obj\Debug\ShitpostToolkit.csprojResolveAssemblyReference.cache
+C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\obj\Debug\ShitpostToolkit.Properties.Resources.resources
+C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\obj\Debug\ShitpostToolkit.csproj.GenerateResource.Cache
+C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\obj\Debug\ShitpostToolkit.exe
+C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\obj\Debug\ShitpostToolkit.pdb
