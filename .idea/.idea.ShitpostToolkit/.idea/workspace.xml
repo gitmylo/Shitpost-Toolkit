@@ -22,25 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a978c32-7103-4b2e-ab77-517783ff65ce" name="Default Changelist" comment="end tax fraud">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Form1.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/MetroFramework.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/ShitpostToolkit.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/ShitpostToolkit.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csproj.GenerateResource.Cache" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csproj.GenerateResource.Cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csprojResolveAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csprojResolveAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/packages.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MetroFramework.1.2.0.3/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MetroFramework.1.2.0.3/Content/MetroFramework.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MetroFramework.1.2.0.3/MetroFramework.1.2.0.3.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MetroFramework.1.2.0.3/README.TXT" beforeDir="false" />
-    </list>
+    <list default="true" id="2a978c32-7103-4b2e-ab77-517783ff65ce" name="Default Changelist" comment="Readme.md and base form page" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,8 +31,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ShitpostToolkit/Readme.md" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1me4MmhPghAhBcb17CZfRkkzRv8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,7 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -90,7 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609840677031</updated>
       <workItem from="1609840679859" duration="839000" />
-      <workItem from="1609845980089" duration="1062000" />
+      <workItem from="1609845980089" duration="1361000" />
     </task>
     <task id="LOCAL-00001" summary="end tax fraud">
       <created>1609846216465</created>
@@ -99,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609846216465</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Readme.md and base form page">
+      <created>1609847341116</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609847341116</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +119,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="end tax fraud" />
-    <option name="LAST_COMMIT_MESSAGE" value="end tax fraud" />
+    <MESSAGE value="Readme.md and base form page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme.md and base form page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="787" y="396" key="Github.ShareDialog" timestamp="1609840911717">
@@ -140,18 +139,18 @@
       <screen x="0" y="0" width="1842" height="996" />
     </state>
     <state x="513" y="230" key="Rider.ProjectTemplateDialog.Size/0.0.1842.996@0.0.1842.996" timestamp="1609840676632" />
-    <state x="422" y="143" key="SettingsEditor" timestamp="1609846050787">
+    <state x="422" y="143" key="SettingsEditor" timestamp="1609847312078">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state x="422" y="143" key="SettingsEditor/0.0.1842.996@0.0.1842.996" timestamp="1609846050787" />
+    <state x="422" y="143" key="SettingsEditor/0.0.1842.996@0.0.1842.996" timestamp="1609847312078" />
     <state x="649" y="135" width="740" height="647" key="ToolboxManager" timestamp="1609846695067">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
     <state x="649" y="135" width="740" height="647" key="ToolboxManager/0.0.1842.996@0.0.1842.996" timestamp="1609846695067" />
-    <state x="513" y="231" key="Vcs.Push.Dialog.v2" timestamp="1609846227053">
+    <state x="513" y="231" key="Vcs.Push.Dialog.v2" timestamp="1609847350139">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state x="513" y="231" key="Vcs.Push.Dialog.v2/0.0.1842.996@0.0.1842.996" timestamp="1609846227053" />
+    <state x="513" y="231" key="Vcs.Push.Dialog.v2/0.0.1842.996@0.0.1842.996" timestamp="1609847350139" />
     <state x="815" y="369" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609846070161">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
