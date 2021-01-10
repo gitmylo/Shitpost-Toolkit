@@ -22,26 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a978c32-7103-4b2e-ab77-517783ff65ce" name="Default Changelist" comment="ok now its fixed">
-      <change afterPath="$PROJECT_DIR$/ShitpostToolkit/SaveImage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShitpostToolkit/image/export/ExportManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShitpostToolkit/image/export/ExportMod.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.SaveImage.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Form1.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Form1.resx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Readme.stpt" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Readme.stpt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/ShitpostToolkit.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/ShitpostToolkit.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.Form1.resources" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.Form1.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csproj.GenerateResource.Cache" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csproj.GenerateResource.Cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.pdb" afterDir="false" />
-    </list>
+    <list default="true" id="2a978c32-7103-4b2e-ab77-517783ff65ce" name="Default Changelist" comment="fuck it. me, @cheemsdogger on twitter. this is a desperate attempt to get into developers swearing. i'm probably not supposed to but i'll try" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,9 +37,9 @@
         <option value="$PROJECT_DIR$/ShitpostToolkit/Readme.md" />
         <option value="$PROJECT_DIR$/ShitpostToolkit/image/export/ExportMod.cs" />
         <option value="$PROJECT_DIR$/ShitpostToolkit/image/export/ExportManager.cs" />
-        <option value="$PROJECT_DIR$/ShitpostToolkit/Readme.stpt" />
         <option value="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" />
         <option value="$PROJECT_DIR$/ShitpostToolkit/SaveImage.cs" />
+        <option value="$PROJECT_DIR$/ShitpostToolkit/Readme.stpt" />
       </list>
     </option>
   </component>
@@ -107,6 +88,7 @@
       <updated>1609840677031</updated>
       <workItem from="1609840679859" duration="839000" />
       <workItem from="1609845980089" duration="8370000" />
+      <workItem from="1610286725514" duration="331000" />
     </task>
     <task id="LOCAL-00001" summary="end tax fraud">
       <created>1609846216465</created>
@@ -164,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609850323550</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="fuck it. me, @cheemsdogger on twitter. this is a desperate attempt to get into developers swearing. i'm probably not supposed to but i'll try">
+      <created>1610287012241</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610287012241</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +171,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -192,7 +182,8 @@
     <MESSAGE value="brain" />
     <MESSAGE value="hope fix" />
     <MESSAGE value="ok now its fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok now its fixed" />
+    <MESSAGE value="fuck it. me, @cheemsdogger on twitter. this is a desperate attempt to get into developers swearing. i'm probably not supposed to but i'll try" />
+    <option name="LAST_COMMIT_MESSAGE" value="fuck it. me, @cheemsdogger on twitter. this is a desperate attempt to get into developers swearing. i'm probably not supposed to but i'll try" />
   </component>
   <component name="WindowStateProjectService">
     <state x="787" y="396" key="Github.ShareDialog" timestamp="1609840911717">

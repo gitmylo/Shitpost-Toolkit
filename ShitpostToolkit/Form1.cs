@@ -32,7 +32,7 @@ namespace ShitpostToolkit
                     Stream response = client.OpenRead(
                         "https://raw.githubusercontent.com/gitmylo/Shitpost-Toolkit/master/ShitpostToolkit/Readme.stpt" + "?random=" + random.Next());
                     StreamReader responseReader = new StreamReader(response);
-                    changelogTxt = "your current running version: " + version + Environment.NewLine;
+                    changelogTxt = "you're current running version: " + version + Environment.NewLine;
                     while (!responseReader.EndOfStream)
                     {
                         changelogTxt += responseReader.ReadLine() + Environment.NewLine;
