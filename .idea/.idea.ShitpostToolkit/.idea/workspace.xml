@@ -22,11 +22,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a978c32-7103-4b2e-ab77-517783ff65ce" name="Default Changelist" comment="hope fix">
+    <list default="true" id="2a978c32-7103-4b2e-ab77-517783ff65ce" name="Default Changelist" comment="ok now its fixed">
+      <change afterPath="$PROJECT_DIR$/ShitpostToolkit/SaveImage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShitpostToolkit/image/export/ExportManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShitpostToolkit/image/export/ExportMod.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.SaveImage.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ShitpostToolkit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Form1.Designer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Form1.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/Readme.stpt" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/Readme.stpt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/ShitpostToolkit.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/ShitpostToolkit.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/bin/Debug/ShitpostToolkit.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.Form1.resources" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.Form1.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csproj.GenerateResource.Cache" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.csproj.GenerateResource.Cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ShitpostToolkit/obj/Debug/ShitpostToolkit.pdb" afterDir="false" />
     </list>
@@ -42,8 +54,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ShitpostToolkit/Readme.md" />
+        <option value="$PROJECT_DIR$/ShitpostToolkit/image/export/ExportMod.cs" />
+        <option value="$PROJECT_DIR$/ShitpostToolkit/image/export/ExportManager.cs" />
         <option value="$PROJECT_DIR$/ShitpostToolkit/Readme.stpt" />
         <option value="$PROJECT_DIR$/ShitpostToolkit/Form1.cs" />
+        <option value="$PROJECT_DIR$/ShitpostToolkit/SaveImage.cs" />
       </list>
     </option>
   </component>
@@ -56,6 +71,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
@@ -90,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609840677031</updated>
       <workItem from="1609840679859" duration="839000" />
-      <workItem from="1609845980089" duration="4144000" />
+      <workItem from="1609845980089" duration="8370000" />
     </task>
     <task id="LOCAL-00001" summary="end tax fraud">
       <created>1609846216465</created>
@@ -141,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609849695961</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ok now its fixed">
+      <created>1609850323550</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609850323550</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,13 +184,15 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="end tax fraud" />
     <MESSAGE value="Readme.md and base form page" />
     <MESSAGE value="change Readme.md to Readme.stpt (shitpost toolkit plain text) and change reading of it" />
     <MESSAGE value="brain" />
     <MESSAGE value="hope fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="hope fix" />
+    <MESSAGE value="ok now its fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok now its fixed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="787" y="396" key="Github.ShareDialog" timestamp="1609840911717">
@@ -178,22 +203,22 @@
       <screen x="0" y="0" width="1842" height="996" />
     </state>
     <state x="724" y="205" key="Github.UntrackedFilesDialog/0.0.1842.996@0.0.1842.996" timestamp="1609840917204" />
-    <state width="899" height="271" key="GridCell.Tab.0.bottom" timestamp="1609849824883">
+    <state width="899" height="271" key="GridCell.Tab.0.bottom" timestamp="1609854422939">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state width="899" height="271" key="GridCell.Tab.0.bottom/0.0.1842.996@0.0.1842.996" timestamp="1609849824883" />
-    <state width="899" height="271" key="GridCell.Tab.0.center" timestamp="1609849824883">
+    <state width="899" height="271" key="GridCell.Tab.0.bottom/0.0.1842.996@0.0.1842.996" timestamp="1609854422939" />
+    <state width="899" height="271" key="GridCell.Tab.0.center" timestamp="1609854422938">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state width="899" height="271" key="GridCell.Tab.0.center/0.0.1842.996@0.0.1842.996" timestamp="1609849824883" />
-    <state width="899" height="271" key="GridCell.Tab.0.left" timestamp="1609849824883">
+    <state width="899" height="271" key="GridCell.Tab.0.center/0.0.1842.996@0.0.1842.996" timestamp="1609854422938" />
+    <state width="899" height="271" key="GridCell.Tab.0.left" timestamp="1609854422938">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state width="899" height="271" key="GridCell.Tab.0.left/0.0.1842.996@0.0.1842.996" timestamp="1609849824883" />
-    <state width="899" height="271" key="GridCell.Tab.0.right" timestamp="1609849824883">
+    <state width="899" height="271" key="GridCell.Tab.0.left/0.0.1842.996@0.0.1842.996" timestamp="1609854422938" />
+    <state width="899" height="271" key="GridCell.Tab.0.right" timestamp="1609854422939">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state width="899" height="271" key="GridCell.Tab.0.right/0.0.1842.996@0.0.1842.996" timestamp="1609849824883" />
+    <state width="899" height="271" key="GridCell.Tab.0.right/0.0.1842.996@0.0.1842.996" timestamp="1609854422939" />
     <state x="796" y="447" key="Items removing confirmation dialog" timestamp="1609846588026">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
@@ -206,14 +231,14 @@
       <screen x="0" y="0" width="1842" height="996" />
     </state>
     <state x="422" y="143" key="SettingsEditor/0.0.1842.996@0.0.1842.996" timestamp="1609847312078" />
-    <state x="649" y="135" width="740" height="647" key="ToolboxManager" timestamp="1609847730468">
+    <state x="649" y="135" width="740" height="647" key="ToolboxManager" timestamp="1609850721511">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state x="649" y="135" width="740" height="647" key="ToolboxManager/0.0.1842.996@0.0.1842.996" timestamp="1609847730468" />
-    <state x="513" y="231" key="Vcs.Push.Dialog.v2" timestamp="1609849699895">
+    <state x="649" y="135" width="740" height="647" key="ToolboxManager/0.0.1842.996@0.0.1842.996" timestamp="1609850721511" />
+    <state x="513" y="231" key="Vcs.Push.Dialog.v2" timestamp="1609850326886">
       <screen x="0" y="0" width="1842" height="996" />
     </state>
-    <state x="513" y="231" key="Vcs.Push.Dialog.v2/0.0.1842.996@0.0.1842.996" timestamp="1609849699895" />
+    <state x="513" y="231" key="Vcs.Push.Dialog.v2/0.0.1842.996@0.0.1842.996" timestamp="1609850326886" />
     <state x="815" y="369" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609846070161">
       <screen x="0" y="0" width="1842" height="996" />
     </state>

@@ -15,7 +15,7 @@ namespace ShitpostToolkit
 {
     public partial class Form1 : Form
     {
-        private double version = 0.01;
+        private double version = 0.02;
         public Form1()
         {
             InitializeComponent();
@@ -30,7 +30,7 @@ namespace ShitpostToolkit
                 {
                     Random random = new Random(); // avoid caching hacky approach
                     Stream response = client.OpenRead(
-                        "https://raw.githubusercontent.com/gitmylo/Shitpost-Toolkit/master/ShitpostToolkit/Readme.stpt" + "?random=" + random.Next().ToString());
+                        "https://raw.githubusercontent.com/gitmylo/Shitpost-Toolkit/master/ShitpostToolkit/Readme.stpt" + "?random=" + random.Next());
                     StreamReader responseReader = new StreamReader(response);
                     changelogTxt = "your current running version: " + version + Environment.NewLine;
                     while (!responseReader.EndOfStream)
@@ -45,6 +45,33 @@ namespace ShitpostToolkit
                 throw;
             }
             Changelog.Text = changelogTxt;
+        }
+
+        private void openToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            openImage.ShowDialog();
+        }
+
+        private void openImage_FileOk(object sender, CancelEventArgs e)
+        {
+            imagePreview.Image = Image.FromFile(openImage.FileName);
+        }
+
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (imagePreview.Image != null)
+            {
+                new SaveImage(imagePreview.Image).ShowDialog();
+            }
+            else
+            {
+                MessageBox.Show("Please open an image first");
+            }
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Environment.Exit(1);
         }
     }
 }

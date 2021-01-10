@@ -1,7 +1,9 @@
-﻿Latest version: 0.01
+﻿Latest version: 0.02
+
+want glitch effects, or an image capable of things an image should not be capable of? you've come to the wrong place. it's not finished
 features in latest:
 * fetches this page from github on launch
 * Image tab:
-    * currently nothing
+    * open view and save image
 * Video tab:
     * currently nothing

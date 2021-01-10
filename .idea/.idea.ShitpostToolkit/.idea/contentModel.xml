@@ -11,6 +11,13 @@
         <e p="Form1.cs" t="Include" />
         <e p="Form1.Designer.cs" t="Include" />
         <e p="Form1.resx" t="Include" />
+        <e p="image" t="Include">
+          <e p="export" t="Include">
+            <e p="ExportManager.cs" t="Include" />
+            <e p="ExportMod.cs" t="Include" />
+            <e p="exportModifiers" t="Include" />
+          </e>
+        </e>
         <e p="obj" t="ExcludeRecursive" />
         <e p="packages.config" t="Include" />
         <e p="Program.cs" t="Include" />
@@ -22,6 +29,9 @@
           <e p="Settings.settings" t="Include" />
         </e>
         <e p="Readme.stpt" t="Include" />
+        <e p="SaveImage.cs" t="Include" />
+        <e p="SaveImage.Designer.cs" t="Include" />
+        <e p="SaveImage.resx" t="Include" />
         <e p="ShitpostToolkit.csproj" t="IncludeRecursive" />
       </e>
       <e p="ShitpostToolkit.sln" t="IncludeFlat" />

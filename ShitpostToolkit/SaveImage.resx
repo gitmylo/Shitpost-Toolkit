@@ -117,20 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="imagePreview.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAfQAAAH0AQMAAADxGE3JAAAABGdBTUEAALGPC/xhBQAAAAZQTFRFysrM
-        /f39VSjUCwAAAMJJREFUeNrt17ERwjAABMH3EDikBEqhNLs0SqEEhwQMj0pwClqFkjb+uYyztY/k1h7J
-        2r6Tpe3ZB57neX5KPy725N4+k2v7Si7tZ/w59RCe53l+Uh/7y/M8z+sPnud5vvqD53me1x88z/N89Yf9
-        5Xmen97bX57neV5/8DzP8/qD53me1x88z/O8/rC/PM/zfH5+/3ie53n9wfM8z0d/8DzP8/rD/vI8z/P6
-        g+d5ntcfPM/zvP7geZ7n9QfP8zz/zz75AqxlPWigMRPGAAAAAElFTkSuQmCC
-</value>
-  </data>
-  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+  <metadata name="saveImgDialog.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <metadata name="openImage.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>126, 17</value>
+  <metadata name="UpdateHelpCheck.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>143, 17</value>
   </metadata>
 </root>

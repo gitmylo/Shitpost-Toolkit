@@ -10,3 +10,4 @@ C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\bin\Debug\MetroFram
 C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\bin\Debug\MetroFramework.dll
 C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\bin\Debug\MetroFramework.Fonts.dll
 C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\obj\Debug\ShitpostToolkit.Form1.resources
+C:\Users\milan\RiderProjects\ShitpostToolkit\ShitpostToolkit\obj\Debug\ShitpostToolkit.SaveImage.resources
